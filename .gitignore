@@ -3,3 +3,5 @@ script
 teste
 .vagrant
 ubuntu-bionic-18.04-cloudimg-console.log
+gitClue.txt
+.gitignore
